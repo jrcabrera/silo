@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "vite": "^4.4.2"
+  },
+  "name": "silo",
+  "module": "html/main/silo-graficas.html",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
